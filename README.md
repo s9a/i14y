@@ -1,29 +1,9 @@
-# c11y
+# [i14y](https://s9a.page/i14y)
 
-## [poster](https://s9a.github.io/c11y)
+eye fourteen why
 
-<pre>
-c11y
-c~~~~~~~~~~~y
-c~~~a~~~~li~~
-compa~~~~~~~~
-compati~~~~~~
-compatibility
-compatibilità
-compatibilité
-compatibilitat
-compatibilitate
-compatibilidade
-compatibilidad
-c11y
-</pre>
+[c11y](https://s9a.page/v11y) connections
 
-## advocacy
+## [opensource](LICENSE.txt)
 
-```md
-[c11y](https://s9a.github.io/c11y)
-```
-
-## [license](LICENSE.txt)
-
-[CC0](https://choosealicense.com/licenses/cc0-1.0/)
+[`create with this template`](https://github.com/s9a/i14y/generate)
