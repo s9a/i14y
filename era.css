@@ -1,0 +1,32 @@
+@media (color) {
+  ::selection {
+    background: hotpink;
+    color: black;
+  }
+
+  html {
+    background: #509;
+    color: chartreuse;
+  }
+
+  [href] {
+    color: lime;
+  }
+
+  mark {
+    color: inherit;
+    background: #606;
+  }
+}
+
+@media (color) and (prefers-contrast: more) {
+  html {
+    background: #102;
+  }
+}
+
+@media (color) and (prefers-contrast: less) {
+  html {
+    color: pink;
+  }
+}
