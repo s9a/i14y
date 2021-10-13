@@ -1,9 +1,3 @@
-# [i14y](https://s9a.page/i14y)
+# [i14y](https://s9a.page/i14y) <sub>eye fourteen why</sub>
 
-eye fourteen why
-
-[c11y](https://s9a.page/c11y) connections
-
-## [opensource](LICENSE.txt)
-
-[interoperate](https://github.com/s9a/i14y/generate)
+## [opensource](LICENSE.txt) [<sup>interoperate</sup>](https://github.com/s9a/i14y/generate)</sub>
