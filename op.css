@@ -1,3 +1,8 @@
+:focus {
+  outline-style: dashed;
+  outline-width: thick;
+}
+
 html {
   font-family: ui-monospace, monospace;
   font-size: calc(1em + 1vw + 1vh);
@@ -23,6 +28,7 @@ li {
   display: block;
   margin: 0;
   margin-block-end: 1ex;
+  line-height: 1.1;
 }
 
 h1,
@@ -31,4 +37,14 @@ i {
   font-weight: 300;
   font-style: inherit;
   margin: 0;
+}
+
+mark {
+  display: table;
+}
+
+aside {
+  font-size: 1.5rem;
+  line-height: normal;
+  margin-block: 1rem;
 }

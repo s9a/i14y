@@ -10,7 +10,12 @@
   }
 
   [href] {
-    color: lime;
+    background: chartreuse;
+    color: #111;
+  }
+
+  :focus {
+    outline-color: chartreuse;
   }
 
   mark {
@@ -23,10 +28,23 @@
   html {
     background: #102;
   }
+
+  [href] {
+    color: #102;
+  }
 }
 
 @media (color) and (prefers-contrast: less) {
   html {
     color: pink;
+  }
+
+  [href] {
+    background: pink;
+    color: #509;
+  }
+
+  :focus {
+    outline-color: pink;
   }
 }
